@@ -1,0 +1,19 @@
+-------------Salvar um repositório-------------
+
+git init .   #inicia
+git add *    #joga
+git commit -m "inicio"
+
+-----------------------------------------------
+
+
+
+----------Editar arquivo e atualizar ----------
+
+git add *
+git commit -m "Segundo"
+git push origin master
+
+-----------------------------------------------
+
+ 
