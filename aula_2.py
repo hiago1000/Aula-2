@@ -26,7 +26,8 @@ class Atividade:
     def finalizar_atividade(self):
         self.status = "Finalizada!"      
 
-
+class Endereco:
+    pass
 
 
 
