@@ -24,10 +24,10 @@ class Atividade:
         self.data_fim = data_fim
 
     def finalizar_atividade(self):
-        self.status = "Finalizada!"      
+        self.status = "Finalizada!"
 
-class Endereco:
-    pass
+
+
 
 
 
